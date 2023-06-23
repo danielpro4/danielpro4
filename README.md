@@ -1,6 +1,6 @@
 <h2>I'm Daniel Perez Atanacio!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer 
+<p><em>Frontend Engineer
 </em></p>
 
 
@@ -13,8 +13,8 @@ const danielpro4 = {
     askMeAbout: ["web dev", "tech", "app dev", "agro"],
     technologies: {
         mobileApp: ["React Native"],
-        frontEnd: {
-            js: ["React", "Next", "Angularjs", "Svelte", "VueJS"],
+        frontend: {
+            js: ["ReactJS", "NextJS", "Angularjs", "VueJS"],
             css: ["bootstrap", "tailwind"]
         },
         backEnd: {
@@ -23,12 +23,12 @@ const danielpro4 = {
             python: ["flask"],
             others: ["hasura"]
         },
-        devOps: ["Heroku", "Docker🐳", "Nginx", "Netlify"],
+        devOps: ["Vercel", "Docker🐳", "Nginx", "Netlify"],
         databases: ["mysql", "sqlite", "postgres", "mongo"],
         misc: ["firebase", "jest", "hasura", "cypress"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "Wiskipix",
+    currentProject: "Demo",
     funFact: "..."
 };
 ```
